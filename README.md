@@ -1,5 +1,3 @@
-![snake gif](https://github.com/fsantosandrade/fsantosandrade/blob/output/github-contribution-grid-snake-dark.svg)
-
 ###
 
 <h2 align="left">Olá, sou Felipe Santos !👋</h2>
