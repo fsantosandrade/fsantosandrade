@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/fsantosandrade/fsantosandrade/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/fsantosandrade/fsantosandrade/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
