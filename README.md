@@ -1,15 +1,18 @@
 ###
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Felipe+Santos!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=black&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Felipe+Santos!;" />
 </h1>
 
 ###
 
 <p align="center">Sou desenvolvedor Front-End apaixonado por programação, sou de Brasília e atualmente faço Ciências da Computação e estudo por conta própria buscando sempre aprender mais e mais.</p>
 <br>
-<p align="center">📍 Atualmente trabalho como Freelancer</p>
-<p align="center">🔎 Atualmente trabalho com Angular, Typescript, html, node.js...</p>
+
+<div align="center" width="100">
+  <p>📍 Atualmente trabalho como Freelancer</p>
+  <p>🔎 Atualmente trabalho com Angular, Typescript, html, node.js...</p>
+</div>
 <br>
 
 ###
@@ -20,7 +23,7 @@
 
 ###
 
-<div align="right" width="100">
+<div align="center" width="100">
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
     <img width="12" />
@@ -38,7 +41,6 @@
     <img width="12" />
     <a href="https://www.linkedin.com/in/felipe-santos-a377ba300/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-      <img width="12" />
     </a>
   </div>
 </div>
@@ -46,6 +48,7 @@
 
 ###
 
+<br>
 <h2 align=center> Stats⚡</h2>
 <br>
 
@@ -58,5 +61,5 @@
 
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;+Até+a+próxima...+👋" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=black&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;+Até+a+próxima...+👋" />
 </h1>
