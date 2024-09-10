@@ -20,27 +20,29 @@
 
 ###
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+<div align="right" width="100">
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+    <img width="12" />
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+    <img width="12" />
+    <a href="https://www.linkedin.com/in/felipe-santos-a377ba300/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+      <img width="12" />
+    </a>
+  </div>
 </div>
-
-###
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/felipe-santos-a377ba300/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<br>
 
 ###
 
