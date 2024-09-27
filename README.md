@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=black&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Felipe+Santos!;" />
 </h1>
 
+<div align="center">
+  <img align="center" width="70%" src="https://static.wixstatic.com/media/53fad0_ac69d4888b8a496597d713946d3d068c~mv2.gif"  />
+</div>
+
 ###
 
 <p align="center">Sou desenvolvedor Front-End apaixonado por programação, sou de Brasília e atualmente faço Ciências da Computação e estudo por conta própria buscando sempre aprender mais e mais.</p>
