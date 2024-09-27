@@ -5,7 +5,9 @@
 </h1>
 
 <div align="center">
+  <img src="./.github/imgs/lineBar.png" width="70%" height="8px"/>
   <img align="center" width="70%" src="https://static.wixstatic.com/media/53fad0_ac69d4888b8a496597d713946d3d068c~mv2.gif"  />
+  <img src="./.github/imgs/lineBar.png" width="70%" height="8px"/>
 </div>
 
 ###
@@ -20,6 +22,8 @@
 <br>
 
 ###
+
+<img src="./.github/imgs/lineBar.png" width="100%" height="8px"/>
 
 <h2 align=center>📌 Linguagens - Frameworks - Contato 📌</h2>
 
@@ -61,7 +65,49 @@
   <img src="https://streak-stats.demolab.com?user=fsantosandrade&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+<img src="./.github/imgs/lineBar.png" width="100%" height="8px"/>
+
+## 📌 &nbsp;Pinned Repositories
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="center" width="80"><br />
+			<a href="https://github.com/fsantosandrade/node-api-rest-champions-league">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>API Rest com Node.js</h3>
+			<p>API Rest dos times e clubes da Champions League com Node.js e Typescript</p>
+			<a href="https://github.com/fsantosandrade/node-api-rest-champions-league">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="80"><br />
+			<a href="https://github.com/fsantosandrade/Capa-a-Capa">
+        <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>E-commerce com Angular</h3>
+			<p>Um design feito em Angular de um e-commerce de livros para desktop, com funções de carrinho, listagem e mecanismos de pesquisa.</p>
+        <a href="https://github.com/fsantosandrade/Capa-a-Capa">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+			</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<img src="./.github/imgs/lineBar.png" width="100%" height="8px"/>
 
 <br>
 <h1 align="center">
