@@ -56,7 +56,8 @@
 
 ###
 
-<br>
+<img src="./.github/imgs/lineBar.png" width="100%" height="8px"/>
+
 <h2 align=center> Stats⚡</h2>
 <br>
 
@@ -84,7 +85,7 @@
       </td>
 			<td valign="top">
 			<h3>API Rest com Node.js</h3>
-			<p>API Rest dos times e clubes da Champions League com Node.js e Typescript</p>
+			<p>Rest API for Champions League teams and clubs with Node.js and Typescript.</p>
 			<a href="https://github.com/fsantosandrade/node-api-rest-champions-league">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
 			</a>
@@ -98,7 +99,21 @@
       </td>
 			<td valign="top">
 			<h3>E-commerce com Angular</h3>
-			<p>Um design feito em Angular de um e-commerce de livros para desktop, com funções de carrinho, listagem e mecanismos de pesquisa.</p>
+			<p>A design made in Angular of a desktop book e-commerce, with cart, listing and search engine functions.</p>
+        <a href="https://github.com/fsantosandrade/Capa-a-Capa">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="center" width="80"><br />
+			<a href="https://github.com/fsantosandrade/angular-blog">
+        <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Blog Page with Angular</h3>
+			<p>A design made in Angular of a responsive page for a news blog with theme switching, data consumption and dynamism.</p>
         <a href="https://github.com/fsantosandrade/Capa-a-Capa">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
 			</a>
